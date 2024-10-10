@@ -1,0 +1,5 @@
+# ignoro vendor
+vendor
+
+# ignoro config.php
+config.php

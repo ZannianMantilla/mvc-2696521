@@ -1,0 +1,14 @@
+{
+    "name": "sena/mvc-2696521",
+    "authors": [
+        {
+            "name": "Zannian",
+            "email": "zanniancelis@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sena\\" : "app/"
+        }
+    }   
+}
