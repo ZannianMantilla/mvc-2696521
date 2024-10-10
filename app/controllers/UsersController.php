@@ -27,4 +27,9 @@ class UsersController extends Controller{
             ];
             $this->view('users/edit', $data, 'app');
     }   
+    public function update(){
+        echo "<pre>";
+        print_r($_REQUEST);
+        echo "</pre>";
+    }
 }
